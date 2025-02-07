@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+    div {
+      height: 100vh;
+      width:100%;
+       background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./background-image.jpg) ;
+       background-repeat: no-repeat;
+      /* filter: blur(4px); */
+      background-position:center ;
+      background-size: cover;
+      /* z-index: -1; */
+      margin:0;
+      position:relative;
+      /* background-blend-mode: darken; */
+       
+        
+    }
+    .bg-text{
+      background-color:white ;
+      position: absolute;
+    }
+    h1{
+      color:white ;
+      font-size:3rem;
+      text-align: center;
+      margin-top: 40px;
+    }
+    p{
+      color:white;
+      text-align: center;
+    }
+    #log-form{
+      background-color: black;
+      /* background-blend-mode: darken; */
+      /* filter: blur(2px); */
+      width:20%;
+      padding:50px;
+      color:white;
+      position:absolute;
+      top:30%;
+      left:40%;
+      transform:translate(-30,-40);
+
+    }
+    a{
+      text-decoration:none ;
+      color:white;
+    }
+    input{
+      width:300px;
+      padding:8px;
+    }
+    button{
+      background-color: red;
+      width:200px;
+      font-size: 20px;
+      color:white;
+    }
+     
+   </style>
+</head>
+<body>
+  <div id="back-ground"> 
+    <div class="bg-text"> 
+  <h1>Watch Unlimited movies, TV shows and more</h1>
+  <p>Ready to watch? Enter the login credentials to watch your favourite shows.</p>
+
+   <form id="log-form">
+    <h2>Sign In</h2>
+    <label for="email">Email</label><br> 
+       <input type="email" id="email" name="email" required ><br><br>
+       <label for="password">Password</label><br> 
+       <input type="password" id="password" name="password" required><br><br>
+       <button>Login</button>
+       <h3>New User?</h3><button><a href="./reg.html">Register/Sign Up</a></button>
+   </form>
+   </div>
+   </div>
+   <script type="module">
+       // Import the functions you need from the SDKs you need
+       import { initializeApp } from "https://www.gstatic.com/firebasejs/11.2.0/firebase-app.js";
+       import { getAuth, signInWithEmailAndPassword} from "https://www.gstatic.com/firebasejs/11.2.0/firebase-auth.js";
+       // TODO: Add SDKs for Firebase products that you want to use
+       // https://firebase.google.com/docs/web/setup#available-libraries
+     
+       // Your web app's Firebase configuration
+       const firebaseConfig = {
+         apiKey: "AIzaSyD7NXB2QfbxAfo95c9vSEWf7HSWW_fsMWg",
+         authDomain: "reg-form-fa906.firebaseapp.com",
+         projectId: "reg-form-fa906",
+         storageBucket: "reg-form-fa906.firebasestorage.app",
+         messagingSenderId: "571840580654",
+         appId: "1:571840580654:web:f8b2d86a10cebfe1f0e3bf"
+       };
+     
+       // Initialize Firebase
+       const app = initializeApp(firebaseConfig);
+        let form=document.getElementById("log-form");
+        let mail=document.getElementById("email");
+        let pass=document.getElementById("password");
+       form.addEventListener("submit",async(event)=>{
+           event.preventDefault();
+           let email=mail.value.trim();
+           let password=pass.value.trim();
+           const auth = getAuth();
+           signInWithEmailAndPassword(auth, email, password)
+ .then((userCredential) => {
+   // Signed up 
+   const user = userCredential.user;
+   // ... 
+   window.open("https://in.search.yahoo.com/search?fr=mcafee&type=E210IN826G91837&p=netflix")
+   
+ })
+ .catch((error) => {
+   const errorCode = error.code;
+   const errorMessage = error.message;
+   alert("login failed!")
+   // ..
+ });
+   
+       } )
+      
+
+
+     </script>
+</body>
+</html>

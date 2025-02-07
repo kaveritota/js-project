@@ -1,0 +1,745 @@
+{
+    "movies":[
+            {
+                "genre": [
+                  "Action",
+                  "Drama"
+                ],
+                "imageurl": [
+                   "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/216/2022/12/12125452/nEufeZlyAOLqO2brrs0yeF1lgXO-scaled.jpg"
+                ],
+                "imdbid": "tt1234567",
+                "imdbrating": 9.8,
+                "released": 2022,
+                "synopsis": "A fearless revolutionary leader fights against the British Raj in India, inspiring a nation to rise against colonial rule.",
+                "title": "RRR",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Drama",
+                  "Thriller"
+                ],
+                "imageurl": [
+                  "https://image.tmdb.org/t/p/original/bMISXhkBDll6JPsevdJJ1ItnW6S.jpg"
+                ],
+                "imdbid": "tt7654321",
+                "imdbrating": 8.2,
+                "released": 2023,
+                "synopsis": "A gritty tale of a common man's fight against corruption and injustice in the system, leading to a thrilling climax.",
+                "title": "Jawan",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Action",
+                  "Adventure"
+                ],
+                "imageurl": [
+                  "https://batman-on-film.com/wp-content/uploads/2018/07/mission-impossible.jpg"
+                ],
+                "imdbid": "tt9876543",
+                "imdbrating": 7.9,
+                "released": 2023,
+                "synopsis": "A group of elite soldiers embarks on a dangerous mission to stop a global terrorist organization from unleashing chaos.",
+                "title": "Mission: Impossible - Dead Reckoning Part One",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Action",
+                  "Sci-Fi"
+                ],
+                "imageurl": [
+                  "https://i.pinimg.com/736x/8c/59/8e/8c598e23041ab30f831e8ae8ecb3ac8a.jpg"
+                ],
+                "imdbid": "tt1122334",
+                "imdbrating": 8.1,
+                "released": 2024,
+                "synopsis": "In a futuristic world, a young scientist discovers a hidden conspiracy that threatens humanity's survival and must fight to expose the truth.",
+                "title": "Kalki 2898 AD",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Drama",
+                  "Romance"
+                ],
+                "imageurl": [
+                  "https://images1.livehindustan.com/uploadimage/library/2023/08/16/16_9/16_9_6/rocky_aur_rani_ki_prem_kahani_1692178221.jpg"
+                ],
+                "imdbid": "tt2233445",
+                "imdbrating": 7.5,
+                "released": 2023,
+                "synopsis": "A heartwarming tale of love and sacrifice, where two individuals from different worlds come together to overcome societal barriers.",
+                "title": "Rocky Aur Rani Kii Prem Kahaani",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Sci-Fi",
+                  "Thriller"
+                ],
+                "imageurl": [
+                  "http://artofthemovies.co.uk/cdn/shop/files/IMG_4119_2_1200x1200.jpg?v=1695909822"
+                ],
+                "imdbid": "tt6677889",
+                "imdbrating": 7.4,
+                "released": 2023,
+                "synopsis": "In a dystopian future, a group of rebels fights against a powerful AI system that controls humanity, risking everything for freedom.",
+                "title": "The Creator",
+                "type": "movie"
+              },
+              {
+                "genre": [
+                  "Action",
+                  "Drama"
+                ],
+                "imageurl": [
+                  "https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg"
+                ],
+                "imdbid": "tt3344556",
+                "imdbrating": 8.9,
+                "released": 2024,
+                "synopsis": "A young man rises from poverty to become a powerful leader, but his journey is fraught with challenges and sacrifices.",
+                "title": "Pushpa: The Rule",
+                "type": "movie"
+              },
+          {
+            "genre": [
+              "Animation", 
+              "Adventure",
+              "Drama"
+            ],
+            "imageurl": [
+              "https://tse4.mm.bing.net/th?id=OIP.fF7WQgxVewyUTq13Bis1AgHaK9&pid=Api&P=0&h=180"
+            ],
+            "imdbid": "tt3380766",
+            "imdbrating": 8.2,
+            "released": 2024,
+            "synopsis": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+            "title": "Musafa-The Lion King2",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://posterspy.com/wp-content/uploads/2023/11/The-Kingdom-of-the-Planet-of-the-Apes-Poster-Winter.jpg"
+            ],
+            "imdbid": "tt6048922",
+            "imdbrating": 7.1,
+            "released": 2024,
+            "synopsis": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+            "title": "Kingdom of the Planet of the Apes",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action"
+            ],
+            "imageurl": [
+              "http://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Guntur_Kaaram_film_poster.jpg/220px-Guntur_Kaaram_film_poster.jpg"
+            ],
+            "imdbid": "tt10126136",
+            "imdbrating": 7.5,
+            "released": 2024,
+            "synopsis": "The story revolves around a young woman who inherits her family’s chili business and faces fierce competition and family pressure as she strives to modernize and expand the business.",
+            "title":"Gunturu Karam",
+            "type": "movie"
+          },
+          {
+            "genre": [
+            "Horror",
+            "Thriller"
+            ],
+            "imageurl": [
+              "https://tr.web.img4.acsta.net/pictures/19/01/04/16/21/4341317.jpg"
+            ],
+            "imdbid": "tt10370822",
+            "imdbrating": 8.1,
+            "released": 2018,
+            "synopsis": "Tumbbad is a richly imagined and daringly detailed fable of fantasy and horror that, at times, gets overwhelmed by the force of its own world-building.",
+            "title": "Tumbbad",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Comedy",
+              "Horror"
+            ],
+            "imageurl": [
+              "https://st1.latestly.com/wp-content/uploads/2023/04/1-1-13.jpg"
+            ],
+            "imdbid": "tt10820008",
+            "imdbrating": 7.9,
+            "released": 2024,
+            "synopsis": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones. Bhaskar … MLA … Stree's fear has ended in Chanderi.",
+            "title":"Stree-2",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Comedy",
+              "Horror" 
+            ],
+            "imageurl": [
+              "https://static.digit.in/product/munjya-6e82e706af.jpeg"
+            ],
+            "imdbid": "tt7397552",
+            "imdbrating": 7.8,
+            "released": 2024,
+            "synopsis": "A young man's visit to his native village unveils a family secret and a vengeful spirit, the Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches.",
+            "title": "Munjya",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Romantic",
+              "Drama"
+            ],
+            "imageurl": [
+              "https://resizing.flixster.com/Z_sVCiKKoq71XF9N70SUjQjLqys=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkZjkxYWVjLTdkMzktNGQ3Yy1iMzljLTM4NWI0MTFmZjM0Zi5qcGc="
+            ],
+            "imdbid": "tt8365306",
+            "imdbrating": 8.8,
+            "released": 2023,
+            "synopsis": "‘Hi Nanna’ is a Telugu-language romantic drama film that centers around a doting father and his six-year-old daughter, whose lives change when a woman befriends them, intertwining with their past.",
+            "title":"Hi Nanna",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Romantic",
+              "Comedy"
+            ],
+            "imageurl": [
+              " https://rukminim1.flixcart.com/image/1408/1408/av-media/movies/e/h/t/yeh-jawaani-hai-deewani-original-imadn8wuvzqypchz.jpeg?q=90"
+            ],
+            "imdbid": "tt8936646",
+            "imdbrating": 7.5,
+            "released": 2013,
+            "synopsis": "Yeh Jawaani Hai Deewani is the story of the relationship between two characters, Bunny (Ranbir Kapoor) & Naina (Deepika Padukone), at two separate but defining times in their lives... ",
+            "title":"Yeh Jawaani Hai Deewani",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMzcyMzU4MDUtM2JhOC00ZDg2LTg5MGMtZjc2OGMyMjhlMGE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7737786",
+            "imdbrating": 6.7,
+            "released": 2020,
+            "synopsis": "A family struggles for survival in the face of a cataclysmic natural disaster.",
+            "title": "Greenland",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7556122",
+            "imdbrating": 6.7,
+            "released": 2020,
+            "synopsis": "A covert team of immortal mercenaries are suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.",
+            "title": "The Old Guard",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BOGMxNDZmYzQtMTE5Ny00NDAxLWE0OTYtMjVhODcwMWViN2MxXkEyXkFqcGdeQXVyMjYwODI4Mw@@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt6458744",
+            "imdbrating": 6.7,
+            "released": 2020,
+            "synopsis": "'In the year 2035, survivors of a now almost completely evacuated post-apocalyptic Britain compete for a government bounty to retrieve a mysterious bio weapon known only as Unit Eleven...'",
+            "title": "Unit Eleven",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Drama",
+              "History"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNWYyMzNjY2EtODVmYi00ODBmLWIyNGMtNDdhMGViY2RhNjcxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt3833480",
+            "imdbrating": 6.7,
+            "released": 2020,
+            "synopsis": "A small team of U.S. soldiers battle against hundreds of Taliban fighters in Afghanistan.",
+            "title": "The Outpost",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNmZkNmU3ODItNWE1Yi00ZDA4LTk1M2EtMDlkOGQ3YTk0ZmIzXkEyXkFqcGdeQXVyMTM5MjI4Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8332454",
+            "imdbrating": 6.6,
+            "released": 2020,
+            "synopsis": "A small town community comes together to eradicate the heroin epidemic from its midst by whatever means necessary.",
+            "title": "Shooting Heroin",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt1502397",
+            "imdbrating": 6.6,
+            "released": 2020,
+            "synopsis": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+            "title": "Bad Boys for Life",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt3794354",
+            "imdbrating": 6.6,
+            "released": 2020,
+            "synopsis": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+            "title": "Sonic the Hedgehog",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Horror",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8244784",
+            "imdbrating": 6.5,
+            "released": 2020,
+            "synopsis": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+            "title": "The Hunt",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Comedy"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZjk0ZTk4OTQtYWYyZC00MTU5LTkxMjQtZDRlYjRkN2Y3ZjA5XkEyXkFqcGdeQXVyOTA1MDE3OA@@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt11041352",
+            "imdbrating": 6.5,
+            "released": 2020,
+            "synopsis": "An American action star from the 90's is shooting a movie in Bulgaria, while three of his (now grown up) fans try to meet their childhood idol. After a series of bad decisions, the three ...",
+            "title": "Action",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Animation"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZWY2MDEzNjYtOWVlMC00MGYzLWFhNjUtMTAzZTQ4MmQ3N2U4XkEyXkFqcGdeQXVyOTMwNjU3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10841384",
+            "imdbrating": 6.4,
+            "released": 2020,
+            "synopsis": "A group of brave superheroes has to come together to save the multiverse from evil terrorist birds.",
+            "title": "The Forevers",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Comedy",
+              "Family"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNzMyOWRjYjUtMjc2OC00MWUyLWEzODktYWZlZDYxYjk4MDViXkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8242084",
+            "imdbrating": 6.3,
+            "released": 2020,
+            "synopsis": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+            "title": "My Spy",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8629748",
+            "imdbrating": 6.2,
+            "released": 2020,
+            "synopsis": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.",
+            "title": "Spenser Confidential",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZTI0ZGIxZTEtMWQxMi00MDVhLWFmNWQtNmU5ZWNhYjJmYjJkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10059518",
+            "imdbrating": 6.2,
+            "released": 2020,
+            "synopsis": "After a confrontation with an unstable man at an intersection, a woman becomes the target of his rage.",
+            "title": "Unhinged",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Crime"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7713068",
+            "imdbrating": 6.1,
+            "released": 2020,
+            "synopsis": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+            "title": "Harley Quinn: Birds of Prey",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BYjE2MjIwMmYtM2ZiMy00MzdmLTkyNTYtNmFiNjM5MDJhMGVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7149730",
+            "imdbrating": 6.1,
+            "released": 2020,
+            "synopsis": "A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+            "title": "The Silencing",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8851668",
+            "imdbrating": 6,
+            "released": 2020,
+            "synopsis": "A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery.",
+            "title": "The Lovebirds",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Crime",
+              "Sci-Fi"
+            ],
+            "imageurl": [],
+            "imdbid": "tt7550000",
+            "imdbrating": 6,
+            "released": 2020,
+            "synopsis": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+            "title": "Project Power",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Sci-Fi"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZTE5MzE4ODMtOTAyMS00YTI1LWJlOTEtNTg3NTQ4ZTQ4ZDM0XkEyXkFqcGdeQXVyMzA5MDU4ODg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7018506",
+            "imdbrating": 7.8,
+            "released": 2019,
+            "synopsis": "When the electromagnet super-powered hero known as, Static and his tech-savvy partner, Gear face off against the power-pulsing Boom, they also uncover a darker plan in the works by a most sinister of villains.",
+            "title": "Static: Dawn of the Meta-Breed",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Biography",
+              "Documentary"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZjQzNTljMDMtYjk4OC00NDlmLWEzYmItYjY0ZmQ2NTRkYjhhXkEyXkFqcGdeQXVyOTg5Nzg2Mg@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10728282",
+            "imdbrating": 7.8,
+            "released": 2019,
+            "synopsis": "The groundbreaking and often game-changing reporting of legendary foreign correspondent and author Robert Fisk is profiled in the latest from acclaimed documentarian Yung Chang (Up the Yangtze).",
+            "title": "This Is Not a Movie",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Animation"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BM2MxY2QwYTAtMDM1My00MTc0LWEwZjktMDdjODY2NWJiNDg2XkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt9430698",
+            "imdbrating": 7.7,
+            "released": 2019,
+            "synopsis": "Pirates from around the world gather at the Pirates Expo to join the hunt for Gol D. Roger's lost treasure.",
+            "title": "One Piece: Stampede",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Biography",
+              "Drama"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMDA4MTBiYWQtYWQ5Zi00MDU5LWEwYTUtNzJmN2JmYzZhYTQ4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10011102",
+            "imdbrating": 7.7,
+            "released": 2019,
+            "synopsis": "The journey of Indian film industry's first stunt woman Reshma Pathan, it will trace the life of Reshma and her stint in movies as a body double for various actresses. Bidita Bag plays the lead role of feisty stunt-woman.",
+            "title": "The Sholay Girl",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Crime"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BOWEyOWFjMTQtOGQxMC00NWI5LTgxNDktMDhhNDhiMTBhMzMzXkEyXkFqcGdeQXVyODQ3MDAxNTg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt7981144",
+            "imdbrating": 7.6,
+            "released": 2019,
+            "synopsis": "An ex drug dealer known by his street name D Stacks (Maurice McFadden) is on the quest to get revenge for the murders of his family. His best friend Q (Shawn Washington) is always by his ...",
+            "title": "EyeCon",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Sci-Fi"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BM2M3Y2MzZjAtOTNlYS00ZGJkLWE1MjItMGYzMDgyYzRiNDBhXkEyXkFqcGdeQXVyMDczOTUwOA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt8325786",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "IN OUR future, one simple breath could mean life or death. As we search for a solution, pollution engulfs our world. If we don't find an answer fast, all living things shall perish. We are ...",
+            "title": "Wu Xia 2 the Code",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Sci-Fi"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt6320628",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "title": "Spider-Man: Far from Home",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt6146586",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+            "title": "John Wick: Chapter 3 - Parabellum",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Animation"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt2386490",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "title": "How to Train Your Dragon: The Hidden World",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Animation"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BY2E4MGUwMmUtNzUxMS00Y2MyLTg5NmItNTU1MTMwZjYxNTlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10627720",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "Born with unique powers, a boy is recruited to fight demons and save the community that fears him.",
+            "title": "Ne Zha",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BYzE1ZTRkZDgtNTUyOS00MzRmLWE4NzUtZGNmZDgxOWI3Mzc4XkEyXkFqcGdeQXVyMzc4ODY4MTk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10264732",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "'Muna' is the story of a spirited girl raised by her grandmother; the last surviving member of their family. Muna's driving desire to provide a better life for herself and grandmother in ...",
+            "title": "Muna",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Animation"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZTYyY2NlMzktZWE4Yi00ZjkxLWJjZGItNTgyMDU3YTc4MTlkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt6739094",
+            "imdbrating": 7.5,
+            "released": 2019,
+            "synopsis": "ZIM discovers his almighty leaders never had any intention of coming to Earth and he loses confidence in himself for the first time in his life, which is the big break his human nemesis, Dib has been waiting for.",
+            "title": "Invader ZIM: Enter the Florpus",
+            "type": "tvMovie"
+          },
+          {
+            "genre": [
+              "Action"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BMGQ2NTU3YzctYTAxZS00NTY3LWFjNzktYzI5MDAwMzBjOGFmXkEyXkFqcGdeQXVyMjI1MDQzNzI@._V1_UY268_CR16,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt1988832",
+            "imdbrating": 7.4,
+            "released": 2019,
+            "synopsis": "A scientist is targeted by an unlimited amount of contract killers for reasons he doesn't know.",
+            "title": "Assassins' Contract",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Sci-Fi"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BZWM2YmEzYzctNTkxMi00MzA3LTg5YWQtNzc3ZDA1NGE0NjYzXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt11905336",
+            "imdbrating": 7.4,
+            "released": 2019,
+            "synopsis": "Emperor Palpatine dispatches a legion of imperial stormtroopers to the forest planet of Cilpar to retrieve a valuable asset.",
+            "title": "Star Wars: Hand of the Empire",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNjNiYzEzNGMtZGE3My00NDhiLWJlNDctZjNmMzIwNDk5NzA1XkEyXkFqcGdeQXVyMTAyNDM2NTYw._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10791138",
+            "imdbrating": 7.4,
+            "released": 2019,
+            "synopsis": "Maks Fadeev, the young journalist, investigate the case \"Forest of the dead sharks\". He return to the forest for save the world, because evil became the invasion at the Earth.",
+            "title": "Murders in the forest of the dead sharks",
+            "type": "movie"
+          },
+          {
+            "genre": [
+              "Action",
+              "Thriller"
+            ],
+            "imageurl": [
+              "https://m.media-amazon.com/images/M/MV5BNDExYmMwMzktYTY2YS00NGQ2LWFkOTgtNWE1OTJjNGNkN2JkXkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt10773408",
+            "imdbrating": 7.4,
+            "released": 2019,
+            "synopsis": "Recovering from the attempt on his life, Jack Stone sets his sights on his former boss and most trusted ally; General Howard Doyle, the man now known to be the founder of the Vortex crime ...",
+            "title": "Jack Stone: End of the Line",
+            "type": "movie"
+          }
+        ]
+ }
