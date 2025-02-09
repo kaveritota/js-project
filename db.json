@@ -1,18 +1,17 @@
 {
-    "movies":[
-            {
+    "movies":[ {
                 "genre": [
                   "Action",
                   "Drama"
                 ],
                 "imageurl": [
-                   "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/216/2022/12/12125452/nEufeZlyAOLqO2brrs0yeF1lgXO-scaled.jpg"
+                  "https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg"
                 ],
-                "imdbid": "tt1234567",
-                "imdbrating": 9.8,
-                "released": 2022,
-                "synopsis": "A fearless revolutionary leader fights against the British Raj in India, inspiring a nation to rise against colonial rule.",
-                "title": "RRR",
+                "imdbid": "tt3344556",
+                "imdbrating": 8.9,
+                "released": 2024,
+                "synopsis": "A young man rises from poverty to become a powerful leader, but his journey is fraught with challenges and sacrifices.",
+                "title": "Pushpa: The Rule",
                 "type": "movie"
               },
               {
@@ -88,21 +87,6 @@
                 "released": 2023,
                 "synopsis": "In a dystopian future, a group of rebels fights against a powerful AI system that controls humanity, risking everything for freedom.",
                 "title": "The Creator",
-                "type": "movie"
-              },
-              {
-                "genre": [
-                  "Action",
-                  "Drama"
-                ],
-                "imageurl": [
-                  "https://m.media-amazon.com/images/M/MV5BNGZlNTFlOWMtMzUwNC00ZDdhLTk0MWUtOGZjYzFlOTBmNDdhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg"
-                ],
-                "imdbid": "tt3344556",
-                "imdbrating": 8.9,
-                "released": 2024,
-                "synopsis": "A young man rises from poverty to become a powerful leader, but his journey is fraught with challenges and sacrifices.",
-                "title": "Pushpa: The Rule",
                 "type": "movie"
               },
           {
@@ -226,6 +210,21 @@
             "title":"Yeh Jawaani Hai Deewani",
             "type": "movie"
           },
+         {
+                "genre": [
+                  "Action",
+                  "Drama"
+                ],
+                "imageurl": [
+                   "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/216/2022/12/12125452/nEufeZlyAOLqO2brrs0yeF1lgXO-scaled.jpg"
+                ],
+                "imdbid": "tt1234567",
+                "imdbrating": 9.8,
+                "released": 2022,
+                "synopsis": "A fearless revolutionary leader fights against the British Raj in India, inspiring a nation to rise against colonial rule.",
+                "title": "RRR",
+                "type": "movie"
+              },
           {
             "genre": [
               "Action",
